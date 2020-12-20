@@ -15,6 +15,7 @@ The analyses performed were as follows.  For Deliverable 1, I analyzed the relat
 
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes
 
 ### Analysis of Outcomes Based on Goals
 
