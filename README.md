@@ -23,6 +23,7 @@ The analyses performed were as follows.  For Deliverable 1, I analyzed the relat
 
 
 ### Challenges and Difficulties Encountered
+My challenges and difficulties came from a place of truly having no expertise in Excel, as well as having Mac and Windows operating systems on the same computer.  They do not automaticiacally sync, so that has taken most of my time.  Having to learn work arounds to be able to accomplish tasks that others may find less challenging, has made me tired.  To assist me in my challenges, I employed my classmates.  On the first night of class, I created a Google Doc for us all to list our availability to work outside of class.  This has proved most useful, as I have set up three Zooms over the past three days to process the Deliverables outside of the TA hours.  Working with Terminal is something that I need to work on with assistance and patience, so that I can learn the commands and application to GitHub.
 
 ## Results
 
