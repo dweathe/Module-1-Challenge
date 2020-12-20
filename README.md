@@ -15,9 +15,11 @@ The analyses performed were as follows.  For Deliverable 1, I analyzed the relat
 
 
 ### Analysis of Outcomes Based on Launch Date
+Outcomes_vs_Launch.png 
 
 
 ### Analysis of Outcomes Based on Goals
+Outcomes_vs_Goals.png
 
 
 ### Challenges and Difficulties Encountered
