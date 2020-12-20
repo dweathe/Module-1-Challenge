@@ -5,9 +5,10 @@ Deliverable 3: A written analysis of the results (README.md)
 # Kickstarting with Excel
 
 ## Overview of Project
-The purpose of the project is to help Louise determine how to create a crowdsourcing campaign to fund her new play, Fever.  She has estimated a budget and she has turned to us, Excel Master users to help her set up the best campaign for her play.
+The project overview is to help a beginning playwrite determine how to create a crowdsourcing campaign to fund her new play, Fever.  She has estimated a budget and she has turned to us, Excel Master users to help her set up the best campaign for her play.
 
 ### Purpose
+The purpose of our work is to provide data analytics that will support her budget.
 
 ## Analysis and Challenges
 
