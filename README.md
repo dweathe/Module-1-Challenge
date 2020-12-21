@@ -23,15 +23,15 @@ The analyses performed were as follows.  For Deliverable 1, I analyzed the relat
 
 
 ### Challenges and Difficulties Encountered
-My challenges and difficulties came from a place of truly having no expertise in Excel, as well as having Mac and Windows operating systems on the same computer.  They do not automaticiacally sync, so that has taken most of my time.  Having to learn work arounds to be able to accomplish tasks that others may find less challenging, has made me tired.  To assist me in my challenges, I employed my classmates.  On the first night of class, I created a Google Doc for us all to list our availability to work outside of class.  This has proved most useful, as I have set up three Zooms over the past three days to process the Deliverables outside of the TA hours.  Working with Terminal is something that I need to work on with assistance and patience, so that I can learn the commands and application to GitHub.
+My challenges and difficulties came from a place of truly having no expertise in Excel, as well as having Mac and Windows operating systems on the same computer.  They do not automaticiacally sync, so that has taken most of my time.  Having to learn work arounds to be able to accomplish tasks that others may find less challenging, has made me tired.  To assist me in my challenges, I employed my classmates.  On the first night of class, I created a Google Doc for us all to list our availability to work outside of class.  This has proved most useful, as I have set up three Zooms over the past three days to process the Deliverables outside of the TA hours.  For Deliverable 2, I thought I needed to create a pivot table as well as a graph, as oppposed to just making a Line Chart.  Working with Terminal is something that I need to work on with assistance and patience, so that I can learn the commands and application to GitHub. This iwill also be the second writing of this Deliverable, as I did not hit 'commit' earlier today.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?  One conclusion I can draw based on the Outcomes based on Launch Date, is that the end of Sring/early Summer months are the best months for theater attendance.  The second conclusion that can be drawn is that the greatest number of failed theater events occurs in October.  I might contribute that to the upcoming holiday season as the successful Theater outcomes also declines.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?  My conclusion regarding Outcomes based on Goals is that there is a direct relationship between the percentage of successful or failed projects and the goal-amount dollar ranges.  The smaller the goal amount dollar range, the greater success.  The larger the goal amount dollar range, the greater the failures.
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?  Some limitations of this data set are possible outliers that might skew the results and where we got our data from.  We could consider multiple resources for data gathering.
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create? If Louise wanted to market Fever worldwide, we might consider making visuals that were specific to the country in which the play would be seen.  From this perspective, we could provide similar tables and charts to the potential Backers like the ones we presented in this Challenge.
 
